@@ -19,7 +19,10 @@ moscow heritage/
 ├── processed/                   # генерируется ноутбуками
 │   ├── okn-cao-polygons.geojson
 │   ├── okn-cao-points.geojson
-│   └── chart-*.png
+│   ├── agg-categories.json
+│   ├── agg-districts.json
+│   ├── agg-epochs.json
+│   └── agg-district-epoch.json
 ```
 
 ---
